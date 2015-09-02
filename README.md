@@ -3,7 +3,7 @@
 
 ## Datos personales
 
-``
+```
 cel: +54 9 11 6844 5826
 juan@chimienti.com.ar
 ```
