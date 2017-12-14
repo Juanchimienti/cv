@@ -25,24 +25,18 @@ juan@chimienti.com.ar
 
 #### Desde febrero 2014 , Responsable del área de reliability and performance
 
-De responsable a sysadmin y de sysadmin a devops en millisegundos seria la forma
-mas acertada de describir el puesto. Un equipo pequeño pero con muy grandes
-desafíos.
+De responsable a sysadmin a SRE en millisegundos seria la forma mas acertada de
+describir el puesto. Un equipo pequeño pero con muy grandes desafíos.
 Mas de 150 servidores nacidos y criados con poca automatización y sin versionado
 en los archivos de configuracion, administrados por 2 seres humanos.
-Cerca de 70 millones de personas acceden al sitio mensualmente, 50.000 request
+Hasta 60 millones de personas accediendo al sitio mensualmente, 50.000 request
 por minuto y el desafío de dejar de tratar a los servers como piezas únicas
 automatizando las tareas de aprovisionamiento.
 
 
 ##### Tecnologías utilizadas
-GNU/Linux, Mysql, nginx,  memcached, zabbix, thumbor, docker, nagios, redis,
-sphinx, CentOS, vertx, MongoDB, rabbitmq,  Cloudflare, ELK,
-
-**Referencia:**
-
-Nicolas Cohen  **+**
-Diego Essaya **+**
+GNU/Linux, Mysql, nginx, kubernetes, memcached, zabbix, thumbor, docker, redis,
+sphinx, vertx, MongoDB, rabbitmq, nodejs, prometheus, grafana, Cloudflare, ELK,
 
 
 ### [GrupoMost](http://www.grupomost.com)
@@ -94,7 +88,7 @@ en standard edition.
 - Instalación y administración de bases de datos mysql y postgresql
 
 ##### Agosto 2004 - 2007 Sysadmin
-> Comienzo de mi formación técnica en el ambiente laboral. Al comenzar técnica
+> Comienzo de mi formación técnica en el ambiente laboral. Al comenzar tenía
 conocimientos básicos sobre GNU/Linux
 
 - Instalación y Administración de sistemas Unix, Linux
@@ -114,11 +108,6 @@ aplicaciones Java.
 GNU/Linux, Oracle Rdbms, Weblogic, apache, Mysql, IAS, bacula, nagios, mantis,
 openvpn, Oracle Grid, Oracle Forms&Reports, Aix, Solaris, Oracle RAC, Oracle
 Dataguard, postfix,qmail, Debian, RedHat, Lamp, bash scripting, gnawrl, samba.
-
-**Referencias:**
-
-Andres De Barbara  **+**
-Guillermo Smith  **+**
 
 
 ### Cursos
