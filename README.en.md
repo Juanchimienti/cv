@@ -38,7 +38,8 @@ the provisioning tasks.
 
 ###### Technologies Used
 GNU/Linux, Mysql, nginx, kubernetes, memcached, zabbix, thumbor, docker, redis,
-sphinx, vertx, MongoDB, rabbitmq, nodejs, prometheus, grafana, Cloudflare, ELK
+sphinx, vertx, MongoDB, rabbitmq, nodejs, prometheus, grafana, Cloudflare, ELK,
+AWS (ec2,s3,rds),Google Cloud (GKE, Google Cloud SQL)
 
 
 ### [GrupoMost](http://www.grupomost.com)

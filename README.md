@@ -8,6 +8,7 @@ Version actualizada disponible en https://github.com/Juanchimienti/cv
 
 ```
 juan@chimienti.com.ar
+https://ar.linkedin.com/in/juanchimienti
 ```
 
 ### Títulos Obtenidos
@@ -23,7 +24,7 @@ juan@chimienti.com.ar
 
 ### [Taringa!](http://www.taringa.net)
 
-#### Desde febrero 2014 , Responsable del área de reliability and performance
+#### Desde febrero 2014 hasta noviembre 2017, Responsable del área de reliability and performance
 
 De responsable a sysadmin a SRE en millisegundos seria la forma mas acertada de
 describir el puesto. Un equipo pequeño pero con muy grandes desafíos.
@@ -37,6 +38,7 @@ automatizando las tareas de aprovisionamiento.
 ##### Tecnologías utilizadas
 GNU/Linux, Mysql, nginx, kubernetes, memcached, zabbix, thumbor, docker, redis,
 sphinx, vertx, MongoDB, rabbitmq, nodejs, prometheus, grafana, Cloudflare, ELK,
+AWS (ec2,s3,rds),Google Cloud (GKE, Google Cloud SQL)
 
 
 ### [GrupoMost](http://www.grupomost.com)
