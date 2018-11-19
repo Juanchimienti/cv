@@ -21,6 +21,14 @@ https://ar.linkedin.com/in/juanchimienti
 
 ## Experience:
 
+### [Freelance SRE](https://github.com/Juanchimienti/cv)
+
+#### March 2018 to present
+
+Working as a freelance SRE to help companies implement and improve their
+infrastructure.
+The main clients beeing Pagina 12, Axometrica and Causal.
+
 ### [Taringa!](http://www.taringa.net)
 
 #### February 2014 until november 2017, Head of site performance & reliability

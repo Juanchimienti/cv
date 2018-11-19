@@ -22,6 +22,14 @@ https://ar.linkedin.com/in/juanchimienti
 
 ## Experiencia laboral:
 
+### [Freelance SRE](https://github.com/Juanchimienti/cv)
+
+#### Marzo 2018 al presente
+
+Trabajando como freelancce SRE ayudando a las companias a implementar mejoras
+en su infraestructura.
+Los clientes principales son Pagina 12, Axometrica y Causal
+
 ### [Taringa!](http://www.taringa.net)
 
 #### Desde febrero 2014 hasta noviembre 2017, Responsable del área de reliability and performance
