@@ -22,13 +22,43 @@ https://ar.linkedin.com/in/juanchimienti
 
 ## Experiencia laboral:
 
-### [Freelance SRE](https://github.com/Juanchimienti/cv)
+### [Freelance SRE/DevOps](https://github.com/Juanchimienti/cv)
 
 #### Marzo 2018 al presente
 
-Trabajando como freelancce SRE ayudando a las companias a implementar mejoras
+Trabajando como freelance SRE ayudando a empresas a implementar mejoras
 en su infraestructura.
-Los clientes principales son Pagina 12, Axometrica y Causal
+Los clientes principales son Skilynx, Grupo Octubre, Axometrica, Gehl, HXE,
+Poringa, TicketHoy, Impremedia, Djmagla, Bancolombia.
+
+##### Skilynx
+
+Skilinx es "The gold standard for resort experiences". El rol arrancó siendo
+DevOps para en el backend y hoy también estoy desarrollando para las apps
+Android. El backend está hecho con CakePHP y usa Aurora en RDS, Elastic
+Beanstalk y un redis de ElastiCache.
+
+##### Grupo Octubre
+
+En Grupo Octubre arranque como SRE para el diario Pagina/12. Encontré una
+infraestructura sin automatizaciones confiables para la mayor parte de los
+procesos (incluso los deploys eran a mano). Migre toda esa infraestructura
+hacia un Kubernetes (GKE) usando Helm Charts para todos los servicios, Jenkins
+para el CI/CD, Prometheus y Grafana para el monitoreo. Luego fuimos agregando
+otros medios alojados en SaaS/PaaS (wp.com, vercel, pantheon.. etc) y el rol
+cambio.
+
+##### Otros
+
+Junto con Axometrica realicé varios proyectos con roles diferentes. Como
+Project Manager para Gehl, fue un proyecto corto para agregar nuevas
+funcionalidades a una aplicación existente. Hice de nexo entre nuestro
+equipo de Dev y UI/UX con el cliente.
+También junto a Axometrica participe de un proyecto de una applicacion para HXE
+donde diseñamos la infraestructura de 0.
+Para Bancolombia hice integraciones con google calendar/yahoo weather etc en
+Python para una asistente virtual que te recibia al llegar a la oficina.
+
 
 ### [Taringa!](http://www.taringa.net)
 
@@ -45,8 +75,8 @@ automatizando las tareas de aprovisionamiento.
 
 ##### Tecnologías utilizadas
 GNU/Linux, Mysql, nginx, kubernetes, memcached, zabbix, thumbor, docker, redis,
-sphinx, vertx, MongoDB, rabbitmq, nodejs, prometheus, grafana, Cloudflare, ELK,
-AWS (ec2,s3,rds),Google Cloud (GKE, Google Cloud SQL)
+sphinx, fabfile, vertx, MongoDB, rabbitmq, nodejs, prometheus, grafana,
+Cloudflare, ELK, AWS (ec2,s3,rds),Google Cloud (GKE, Google Cloud SQL)
 
 
 ### [GrupoMost](http://www.grupomost.com)

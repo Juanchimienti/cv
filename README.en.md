@@ -21,13 +21,42 @@ https://ar.linkedin.com/in/juanchimienti
 
 ## Experience:
 
-### [Freelance SRE](https://github.com/Juanchimienti/cv)
+### [Freelance SRE/Devops](https://github.com/Juanchimienti/cv)
 
 #### March 2018 to present
 
 Working as a freelance SRE to help companies implement and improve their
 infrastructure.
-The main clients beeing Pagina 12, Axometrica and Causal.
+The main clients being Skilynx, Grupo Octubre, Axometrica, Gehl, HXE,
+Poringa, TicketHoy, Impremedia, Djmagla, Bancolombia.
+
+###### Skilynx
+
+Skilynx is "The gold standard for resort experiences". The role here started
+mainly as DevOps for the backend app and today I'm also adding value as an
+Android developer. The backend is built on top of CakePHP and uses RDS Aurora,
+Elastic Beanstalk and ElastiCache.
+
+###### Grupo Octubre
+
+In Grupo Octubre I started as SRE for the Pagina/12 Newspaper. I found a
+neglected infrastructure, without automation for most of the process, even
+deploys where done manually. I migrated the whole Infrastructure to a
+Kubernetes (GKE) using Helm Charts for all the services, Jenkins for CI/CD,
+Prometheus and Grafana for monitoring. Then we as a team started helping
+other sites inside the group but they where hosted on SaaS/PaaS so the role
+shifted.
+
+###### Others
+
+Many smaller projects with few different roles. For example as a Project
+Manager for Gehl where I help the UX/UI & Dev teams deliver new features to a
+Ruby webapp. Then for HXE I designed and implemented the whole infrastructure
+for a new app to survey companies carbon emissions. Then as developer for
+Bancolombia where I made some integrations with google calendar/yahoo weather
+etc on Python for a virtual assistant that would greet you when you arrived at
+the office.
+
 
 ### [Taringa!](http://www.taringa.net)
 
@@ -46,8 +75,8 @@ the provisioning tasks.
 
 ###### Technologies Used
 GNU/Linux, Mysql, nginx, kubernetes, memcached, zabbix, thumbor, docker, redis,
-sphinx, vertx, MongoDB, rabbitmq, nodejs, prometheus, grafana, Cloudflare, ELK,
-AWS (ec2,s3,rds),Google Cloud (GKE, Google Cloud SQL)
+sphinx, fabfile, vertx, MongoDB, rabbitmq, nodejs, prometheus, grafana,
+Cloudflare, ELK, AWS (ec2,s3,rds),Google Cloud (GKE, Google Cloud SQL)
 
 
 ### [GrupoMost](http://www.grupomost.com)
